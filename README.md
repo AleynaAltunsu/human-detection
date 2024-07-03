@@ -1,5 +1,6 @@
 # human-detection
 computer vision project to detect and count humans
+step by step explanation:
 ### Gerekli Kütüphanelerin İçe Aktarılması
 
 İlk olarak, projemizde kullanacağımız gerekli kütüphaneleri içe aktarıyoruz:
