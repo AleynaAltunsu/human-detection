@@ -1,6 +1,10 @@
 # human-detection
 computer vision project to detect and count humans
-step by step explanation:
+my code works similar with Region Based CNN. 
+
+step by step explanation in turkish:
+(Fast_RCNN nasıl çalışır? Basitçe anlatmak gerekirse, bir görüntüye girilen Fast_RCNN algoritması öncelikle görüntü içerisinde potansiyel nesne olabilecek bölgeleri önerir. Daha sonra bu önerilen bölgeleri inceleyerek içerisinde hangi nesnenin bulunduğunu ve konumunu tahmin eder.)
+
 ### Gerekli Kütüphanelerin İçe Aktarılması
 
 İlk olarak, projemizde kullanacağımız gerekli kütüphaneleri içe aktarıyoruz:
