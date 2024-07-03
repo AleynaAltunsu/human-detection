@@ -1,5 +1,5 @@
 # human-detection
-computer vision project to detect and count humans
+computer vision project to detect and count humans, dataset from:  https://www.kaggle.com/datasets/killa92/human-detection-dataset/data
 my code works similar with Region Based CNN. 
 
 step by step explanation in turkish:
